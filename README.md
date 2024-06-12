@@ -99,19 +99,19 @@ fje -f <json file> -s <style> -i <icon family>
 
 **TreeStyle+DefaultIconFamily**
 
-![tree+default](readme.assert\tree+default.png)
+![tree+default](readme.assert/tree+default.png)
 
 **TreeStyle+PokerFaceIconFamily**
 
-![tree+poker](readme.assert\tree+poker.png)
+![tree+poker](readme.assert/tree+poker.png)
 
 **RectangleStyle+DefaultIconFamily**
 
-![rect+default](readme.assert\rect+default.png)
+![rect+default](readme.assert/rect+default.png)
 
 **RectangleStyle+PokerFaceIconFamily**
 
-![rect+poker](readme.assert\rect+poker.png)
+![rect+poker](readme.assert/rect+poker.png)
 
 
 
